@@ -2,6 +2,8 @@ Jude Arcinue Portfolio
 
 Author: Jude M. Arcinue
 
+block:C
+
 A personal student portfolio built with Laravel 13, Blade, custom CSS, and JavaScript. The site presents Jude’s profile, skills, projects, education, social links, downloadable CV, and a contact form.
 
 Features
